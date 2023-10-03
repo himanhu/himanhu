@@ -5,7 +5,7 @@
 - 💞️ Having experience of 2 startup where build new apps from the base
 - Contributed in many Live projects having userbase of more than 10M.
 - Builded Amazon pay wealth App with my Team from scratch to 30M users
-- Currently working in Kuvera(Fintech Invesrment Platform in India).
+- Currently working in Kuvera(Fintech Investment Platform in India).
 - 
 - 📫 Contact me singh.sh.shivam@gmail.com
 
