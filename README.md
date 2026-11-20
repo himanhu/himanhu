@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himanshu
 - 👀 I’m interested in Software Dev front end as well as backend  ! 
-- 🌱 I’m currently having experience of 3 year in FE dev and having a good knowledge of VueJs ,React , Java Script , NuXt and NeXt , DOM manupulation , CSS , JS Plugins and  also learning react js and redux .
+- 🌱 I’m currently having experience of 6 year in FE dev and having a good knowledge of VueJs ,React , Java Script , NuXt and NeXt , DOM manupulation , CSS , JS Plugins and  also learning react js and redux .
 - Like to explore new Technologies and writing algorithms on Complex Coding Problem .
 - 💞️ Having experience of 2 startup where build new apps from the base
 - Contributed in many Live projects having userbase of more than 10M.
